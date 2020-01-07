@@ -1,4 +1,4 @@
-# New Concepts or old Concepts worth Reviewing
+# New Concepts encountered or old Concepts worth Revising
 
 ## Infinity in Python
 
