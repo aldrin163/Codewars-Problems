@@ -2,7 +2,7 @@
 
 ## Relation between lcm and gcd
 
-for 2 numbers a and b, having their lcm and gcd as l and g respectively,
+For 2 numbers a and b, having their lcm and gcd as l and g respectively,
     l x g = a x b
     Hence, lcm = a x b / gcd
 
